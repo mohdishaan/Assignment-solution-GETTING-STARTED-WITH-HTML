@@ -1,0 +1,28 @@
+Ques4. Write a short note on Tag and element with an example?
+
+Sol.
+TAGS:------------------
+
+Tags in HTML are being used to define the structure and layout of a webpages. Tags are referred to as the building blocks of HTML document. These are being defined within the angular brackets enclosing specific keywords. These tags provide instructions to web browsers on how to display the content on webpage. An HTML tag consists of an opening tag and in some cases, closing tag also. The opening tag consists of less than symbol (<) followed by the tag name and a greater than symbol (>). The closing tag is also the same but it includes slash (/) right after the less than symbol (<)
+
+Way to write :
+
+Opening Tag : <TAG_NAME>
+Closing Tag : </TAG_NAME>
+
+These are of 2 types:
+
+1.Paired Tags or Container Tags:
+These Tags are those tags which have both an opening and a closing tag and can contain other html elements and data within them. Eg: <HTML>-----</HTML>  ,  <HEAD>-----</HEAD> etc.
+
+2.Singular Tag or void Tags:
+These are also called as self closing tags because they dont require a closing tag. Eg: <hr> , <br> etc.
+
+ELEMENTS:-----------------------
+
+HTML elements are the building blocks of the html document. HTML element consists of a start tag, an end tag (if required) & content within the tags.Every HTML element has  a specific structure that defines their behavior and appearance on the webpages.
+It consists of :
+
+1.Opening Tag: It defines the beginning of HTML element. It is enclosed within angular brackets (<>).
+2.Content: These are the data or the text that comes within the opening and closing tags of an HTML element	.
+3.Closing Tag: It defines the end of an HTML element. It is enlosed as (</>).
